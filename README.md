@@ -10,3 +10,5 @@ It features two rotating hands. The inner hand is connected to a popsicle stick 
 These values can be easily adjusted in the final.ino file that has been flashed to the ESP32.
 
 To stop the device without powering off, WiFi is enabled on the ESP32 for wireless communication. The use of this can be seen in the python file.
+
+A more in-depth description and pin diagrams can be found in the pin_diagram.
